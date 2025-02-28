@@ -1,3 +1,5 @@
+[![Deploy to Workers](https://deploy.workers.cloudflare.com/button)](https://localhost:7445/?to=/:account/workers-and-pages/create/deploy-to-workers&repository=https%3A%2F%2Fgithub.com%2Fdeloreyj%2Fbitter-smoke-a76e)
+
 # Astro Starter Kit: Blog
 
 ![Astro Template Preview](https://github.com/withastro/astro/assets/2244813/ff10799f-a816-4703-b967-c78997e8323d)
